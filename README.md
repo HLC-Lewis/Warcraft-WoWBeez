@@ -1,6 +1,6 @@
 ## WowBeez - Arcemu Core, and Client 
 ![WowBeez Banner Stealthee](http://i.imgur.com/UtGnhWM.gif "WowBeez Banner - Stealthee")
-Discord Server: https://discord.gg/mRDgjms
+####Discord Server: https://discord.gg/mRDgjms
 
 ###Contents
 |Item|Link|

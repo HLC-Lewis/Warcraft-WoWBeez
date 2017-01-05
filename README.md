@@ -27,4 +27,6 @@
 - Client Version 4.3.3/.4 Modified Client.
 
 
-I have the original site design with graphics and sections of the old character table, I am personally still in the progress of going through corrupted data and fixing issues with it all. Let me know if you need these.
+
+
+#####Originally Developed and maintained by Tudi [WoWBeez Developer] No Longer Supported by Original Creator. Changes in this repo have been made to his original work, all base credit goes to him, additional scripts etc can be found on his gitrepo's @ https://github.com/Tudi/Descent-core I have the original site design with graphics and sections of the old character table, I am personally still in the progress of going through corrupted data and fixing issues with it all. Let me know if you need these I am unsure yet if I will be releasing these to the public git.

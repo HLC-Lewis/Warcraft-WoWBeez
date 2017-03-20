@@ -1,7 +1,6 @@
 ## WowBeez - Arcemu Core, and Client 
 ![WowBeez Banner Stealthee](http://i.imgur.com/UtGnhWM.gif "WowBeez Banner - Stealthee")
-####Discord Server for community and support (Ask for Stealthee)
-WoWBeez.org
+#### Discord Server for community and support (Ask for Stealthee) : WoWBeez.org
 
 ### Instructions For Repack:
 1. Download the latest release from the release list,

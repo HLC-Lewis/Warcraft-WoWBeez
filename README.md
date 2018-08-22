@@ -27,6 +27,6 @@
 - Client Torrent 2: https://kickass-top.net/895B9B80DBB7FB50E7AB6CECD51342D628EFAB9C
 
 ###### Originally maintained by Tudi [WoWBeez Developer] No Longer Supported by Original Creator. Changes in this repo have been made to their original work, all base credit goes to him. I'm the only person to have the original site design with graphics and sections of the old character database table. Let me know if you need these I am unsure yet if I will be releasing these to the public git, as of course they are under. 
-##### Do NOT use the WoWBeez name with any revival projects or future projects, legal action may be taken in the case of anyone using the names without direct permission from myself (Domain and copyright holder), Stefan, or Tudi (Scripts/CoreFunctions).
+##### Do NOT use the WoWBeez name with any revival projects or future projects, legal action may be taken in the case of anyone using the names.
 ##### Site version can be image viewed below.
 ![WowBeez Site Stealthee](http://i.imgur.com/JNe5QdN.jpg "WowBeez Site - Stealthee")

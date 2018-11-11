@@ -18,6 +18,7 @@
 - Default Database Name: WoWBeez_database
 - Default RemotePassword: vkU2F5KJ
 - Client Version 4.3.3/.4 Modified Client.
+- Collision maps are in mediaFire - incase I loose them LC@Techie.com?
 
 ### Downloads:
 - Repack Download [MediaFire]: http://www.mediafire.com/file/xxkuzdlbficndng/WoWBeez_Repack.zip
